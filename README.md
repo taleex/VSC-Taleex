@@ -2,6 +2,17 @@
 
 A dark theme based on Taleex's personal preference: he likes dark themes when they are done well.
 
+## Preview
+
+### Default Editor
+![taleex default theme preview](assets/Sxrqe9wW-default.jpeg)
+
+### Command Palette
+![taleex command palette preview](assets/Sxrqe9wW-commandPalette.jpeg)
+
+### Integrated Terminal
+![taleex terminal preview](assets/Sxrqe9wW-panelTerminal.jpeg)
+
 ## Color palette
 
 - Background: `#0A0A0A`
