@@ -1,38 +1,36 @@
-# taleex
+# Halide
 
-A dark theme based on Taleex's personal preference: he likes dark themes when they are done well.
+A dark theme for Visual Studio Code.
 
 ## Preview
 
-### Default Editor
-![taleex default theme preview](assets/Sxrqe9wW-default.jpeg)
+![Halide - Editor Preview](assets/Sxrqe9wW-default.jpeg)
 
-### Command Palette
-![taleex command palette preview](assets/Sxrqe9wW-commandPalette.jpeg)
+![Halide - Command Palette](assets/Sxrqe9wW-commandPalette.jpeg)
 
-### Integrated Terminal
-![taleex terminal preview](assets/Sxrqe9wW-panelTerminal.jpeg)
+## Color Palette
 
-## Color palette
+| Color | Hex |
+|:---|:---|
+| Background | `#0A0A0A` |
+| Foreground | `#D4D4D4` |
+| White | `#FFFFFF` |
+| Cyan | `#00FFE7` |
+| Lime | `#EFFF2F` |
+| Pink | `#FF0078` |
+| Green | `#00FF34` |
+| Teal | `#56B6C2` |
+| Red | `#F51535` |
 
-- Background: `#0A0A0A`
-- Foreground: `#D4D4D4`
-- White: `#FFFFFF`
-- Cyan: `#00FFE7`
-- Lime: `#EFFF2F`
-- Pink: `#FF0078`
-- Green: `#00FF34`
-- Teal: `#56B6C2`
-- Link red: `#F51535` (hover: `#FF334F`)
+## Installation
 
-## Creator's note
-
-Taleex plans to create a light mode and a surprise mode in the future.
+1. Open Extensions in VS Code (`Ctrl + Shift + X`).
+2. Search for **Halide**.
+3. Click **Install**.
+4. Open the Command Palette (`Ctrl + Shift + P`).
+5. Select **Preferences: Color Theme**.
+6. Choose **Halide Dark**.
 
 ## Credits
 
 Created by [Taleex](https://github.com/taleex).
-
-## Rights
-
-Copyright © Taleex. All rights reserved.
